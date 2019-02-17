@@ -15,7 +15,7 @@ import (
 	"github.com/brutella/hc/accessory"
 	"github.com/brutella/hc/characteristic"
 	"github.com/brutella/hc/service"
-	"github.com/joeshaw/carwings"
+	"github.com/winterhalder/carwings"
 )
 
 type ChargeService struct {
